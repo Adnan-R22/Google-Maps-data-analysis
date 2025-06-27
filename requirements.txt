@@ -4,4 +4,5 @@ matplotlib
 seaborn
 plotly
 nltk
-fpdf
+fpdf2
+plotly-kaleido
