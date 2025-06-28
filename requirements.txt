@@ -1,8 +1,7 @@
 streamlit
 pandas
-matplotlib
 seaborn
+matplotlib
 plotly
-nltk
-fpdf2
-plotly-kaleido
+fpdf
+kaleido
